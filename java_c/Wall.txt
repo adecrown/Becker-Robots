@@ -1,0 +1,21 @@
+
+game
+0 0 7 7
+60
+
+   becker.robots.Wall 0 0 West
+   becker.robots.Wall 3 0 West
+   becker.robots.Wall 4 0 West
+
+   
+   becker.robots.Wall 1 6 East
+   becker.robots.Wall 2 6 East
+   becker.robots.Wall 3 6 East
+   becker.robots.Wall 4 6 East
+
+   becker.robots.Wall 0 0 North
+   becker.robots.Wall 0 1 North
+   becker.robots.Wall 0 2 North
+   becker.robots.Wall 0 3 North
+   becker.robots.Wall 0 4 North
+   becker.robots.Wall 0 5 North
